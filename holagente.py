@@ -14,3 +14,13 @@ print("mi nombre es: " + nombre)
 
 apellido=input("escribe tu apellido:")
 print("tu apellido es:" + apellido)
+
+"""condicionales """
+
+to=input("escriba 1 o 2: ")
+
+if (to==1) :
+    print("tengo frio ")
+
+else:
+    print("tengo calor")
